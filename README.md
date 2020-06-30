@@ -1,5 +1,5 @@
 # PySpark-in-Practice
-Guide to learn and use Spark with Python through PySpark.
+Guide to learn and use Spark with Python through PySpark. The content is based on the course- [Scalable Machine Learning on Big Data using Apache Spark by IBM](https://www.coursera.org/learn/machine-learning-big-data-apache-spark?) on [Coursera](https://www.coursera.org/).
 
 # Resources
 - [Why We Need Apache Spark](https://medium.com/better-programming/why-we-need-apache-spark-51c8a57aa57a)
